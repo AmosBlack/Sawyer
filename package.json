@@ -1,0 +1,24 @@
+{
+  "name": "sawyer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "canvacord": "^5.2.3",
+    "canvas": "^2.9.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^14.2.0",
+    "merge-images": "^2.0.0",
+    "node-fetch": "^2.6.1",
+    "reddit-djs": "^2.1.0",
+    "reddit.images": "^1.0.7",
+    "usetube": "^2.1.4",
+    "youtube-search": "^1.1.6"
+  }
+}
